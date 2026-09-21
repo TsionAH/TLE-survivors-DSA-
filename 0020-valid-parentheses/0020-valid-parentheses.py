@@ -15,3 +15,5 @@ class Solution:
                 if i == ']' and first != '[':
                     return False
         return not stack
+        
+        
