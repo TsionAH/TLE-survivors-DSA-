@@ -12,3 +12,4 @@ class Solution:
             output += i
         return output
         
+        
