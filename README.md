@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0933-number-of-recent-calls) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2390-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
