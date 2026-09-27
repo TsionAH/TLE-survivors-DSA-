@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
@@ -48,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
