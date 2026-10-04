@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0933-number-of-recent-calls) |
 ## String
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
