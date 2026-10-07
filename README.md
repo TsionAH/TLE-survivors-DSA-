@@ -59,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0707-design-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
