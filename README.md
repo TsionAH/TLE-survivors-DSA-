@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -87,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
