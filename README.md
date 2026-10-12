@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
