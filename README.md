@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
+| [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
+| [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
