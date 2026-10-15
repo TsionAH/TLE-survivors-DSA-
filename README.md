@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
