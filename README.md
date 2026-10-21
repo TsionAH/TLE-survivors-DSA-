@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
