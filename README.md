@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
