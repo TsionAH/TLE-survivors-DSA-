@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Sliding Window
@@ -187,4 +190,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
