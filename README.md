@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 ## Linked List
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
