@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Monotonic Stack
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
