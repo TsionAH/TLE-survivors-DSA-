@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
