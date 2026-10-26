@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0088-merge-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0209-minimum-size-subarray-sum) |
