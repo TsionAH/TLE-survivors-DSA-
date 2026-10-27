@@ -5,20 +5,19 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
-        count = 0
-        curr = head
-        while curr is not None:
-            curr = curr.next
-            count += 1
-        middle = count // 2 
+        onCount = head
         curr = head
         count = 0
-        if middle < 0:
-            return head
-        while count < middle and curr:
-            curr = curr.next
+        while onCount:
+            onCount = onCount.next
             count += 1
-        head = curr
-        return head
-
+        midIndex = count//2
+        count2 = 0
         
+        while curr:
+            if count2 == midIndex:
+                return curr
+            else:
+                curr = curr.next
+                count2 += 1
+        return curr
