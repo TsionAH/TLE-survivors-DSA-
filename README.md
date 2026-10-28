@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
@@ -267,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
