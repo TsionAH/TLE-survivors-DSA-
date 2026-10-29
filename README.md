@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
