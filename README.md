@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0078-subsets) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0257-binary-tree-paths) |
