@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0283-move-zeroes) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
 ## Timsort
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
