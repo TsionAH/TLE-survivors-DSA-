@@ -17,7 +17,7 @@ class Solution:
                     continue
                 if grid[new_row][new_col] == "0":
                     continue
-                grid[new_row][new_col] = "0"
+                
 
                 dfs(new_row,new_col)
 
