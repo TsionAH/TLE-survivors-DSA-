@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0039-combination-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0125-valid-palindrome) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
