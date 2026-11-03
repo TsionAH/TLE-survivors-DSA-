@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
