@@ -6,17 +6,16 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: TreeNode | None, k: int) -> int:
-        result = 0
+        count = 0
         def dfs(node):
-            nonlocal result,k
+            nonlocal count
             if node is None:
-                return 0
-            
-            dfs(node.left)
-            k -= 1
-            if k == 0:
-                result = node.val
-                
-            dfs(node.right)
-        dfs(root)
-        return result 
+                return None
+            left = dfs(node.left)
+            count += 1
+            if left is  not None:
+                return left
+            if count == k:
+                return node.val
+            return dfs(node.right)
+        return dfs(root)
