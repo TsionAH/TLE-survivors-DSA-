@@ -17,7 +17,7 @@ class Solution:
             cur = stack.pop()
             count -= 1
             if count == 0:
-                ans = cur.val
+                return cur.val
             
             cur = cur.right
-        return ans
+        
