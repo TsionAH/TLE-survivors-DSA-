@@ -7,20 +7,18 @@
 class Solution:
     def isValidBST(self, root: TreeNode | None) -> bool:
         stack = []
-        res = []
         curr = root
+        prev = float('-inf')
         while stack or curr:
             while curr:
                 stack.append(curr)
                 curr = curr.left
             curr = stack.pop()
-            res.append(curr.val)
-            curr = curr.right
-        minm = res[0]
-        for i in range(1,len(res)):
-            if not(minm < res[i]):
+            if curr.val <= prev:
                 return False
-            minm = res[i]
+            prev = curr.val
+            curr = curr.right
+        
         return True
             
             
