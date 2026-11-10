@@ -6,14 +6,14 @@ class Solution:
             adj[v].append(u)
         visited = set()
         visited.add(source)
-        def dfs(node):
-            if node == destination:
+        stack = [source]
+        while stack:
+            val = stack.pop()
+            if val == destination:
                 return True
-            for val in adj[node]:
-                if val not in visited:
-                    visited.add(val)
-                    if dfs(val):
-                        return True
-            return False   
-            
-        return dfs(source)
+            for i in adj[val]:
+                if i not in visited:
+                    visited.add(i)
+                    stack.append(i)
+
+        return False
