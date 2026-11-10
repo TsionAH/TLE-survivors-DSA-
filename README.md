@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
 ## Timsort
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
