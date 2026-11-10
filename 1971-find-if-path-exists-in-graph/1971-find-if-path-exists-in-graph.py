@@ -1,26 +1,21 @@
+from collections import deque
 class Solution:
     def validPath(self, n: int, edges: list[list[int]], source: int, destination: int) -> bool:
-        # lest convert it in to adjecency list to make things more easier 
-        converted = {}
-        for node1 , node2 in edges:
-            if node1 not in converted:
-                converted[node1] = []
-            if node2 not in converted:
-                converted[node2] = []
-            converted[node1].append(node2)
-            converted[node2].append(node1)
+        adj = [[] for i in range(n)]
+        for u,v in edges:
+            adj[u].append(v)
+            adj[v].append(u)
         visted = set()
-        def dfs(node,destination):
-            if node in visted:
-                return 
-            visted.add(node)
-            
-            if node == destination:
+        visted.add(source)
+        queue = deque([source])
+        while queue:
+            val = queue.popleft()
+            if val == destination:
                 return True
-            for val in converted.get(node,[]):
-                if dfs(val,destination):
-                    return True
-            return False
-        return dfs(source,destination)
-        
+            for i in adj[val]:
+                if i not in visted:
+                    visted.add(i)
+                    queue.append(i)
+        return False
+
         
