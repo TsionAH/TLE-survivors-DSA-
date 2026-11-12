@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0933-number-of-recent-calls) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0543-diameter-of-binary-tree) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0572-subtree-of-another-tree) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0543-diameter-of-binary-tree) |
@@ -406,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0841-keys-and-rooms) |
