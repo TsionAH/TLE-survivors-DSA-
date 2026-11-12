@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0976-largest-perimeter-triangle) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
@@ -272,15 +274,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -456,4 +461,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0572-subtree-of-another-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
