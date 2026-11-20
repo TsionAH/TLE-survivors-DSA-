@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1361-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -457,12 +461,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0695-max-area-of-island) |
+| [1361-validate-binary-tree-nodes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0841-keys-and-rooms) |
+| [1361-validate-binary-tree-nodes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1361-validate-binary-tree-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
