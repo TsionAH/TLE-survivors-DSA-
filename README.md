@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0118-pascals-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/TsionAH/TLE-survivors-DSA-/tree/master/0172-factorial-trailing-zeroes) |
